@@ -1,0 +1,2 @@
+bitpay-token-widget
+===================
